@@ -6,7 +6,7 @@ It's a website that has been designed to mimic the design of the popular Indian 
 <br>
 <br>
 
-## 📌 **Live Site URL:** <a href="https://razorpay-copy.netlify.app/">**Visit Now** 🚀</a>
+
 
 <br>
 
@@ -17,8 +17,3 @@ It's a website that has been designed to mimic the design of the popular Indian 
 <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>&nbsp;
 <br>
 <br>
-
-## 📬 Connect With Me
-
-- **LinkedIn** - [Indra Shekhar](https://www.linkedin.com/in/indra-shekhar/)
-- **Twitter** - [@Indra684](https://twitter.com/Indra684)
